@@ -1,3 +1,7 @@
 .venv
-0-Streamlit-Introduction
-1-FastAPI-Introduction
+*.pyc
+*.sh
+*.log
+01-FastAPI-Introduction
+02-Streamlit-Introduction
+Module 0 Brief 1
